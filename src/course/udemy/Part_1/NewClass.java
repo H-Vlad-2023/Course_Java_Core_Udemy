@@ -1,4 +1,4 @@
-package course.udemy.Part_2;
+package course.udemy.Part_1;
 
 public class NewClass {
     public static void main(String[] args) {
